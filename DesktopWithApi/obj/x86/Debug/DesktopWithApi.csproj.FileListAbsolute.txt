@@ -1,0 +1,26 @@
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\bin\Debug\DestopToApi.exe
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\bin\Debug\DestopToApi.pdb
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\bin\Debug\ClosedXML.dll
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\bin\Debug\Newtonsoft.Json.dll
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\bin\Debug\ClosedXML.xml
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\bin\Debug\Newtonsoft.Json.xml
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\obj\x86\Debug\DesktopWithApi.csprojResolveAssemblyReference.cache
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\obj\x86\Debug\DesktopWithApi.Form1.resources
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\obj\x86\Debug\DestopToApi.Properties.Resources.resources
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\obj\x86\Debug\DesktopWithApi.csproj.GenerateResource.Cache
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\obj\x86\Debug\DestopToApi.exe
+D:\Others\vae\proj_cs\Frmlatrix\DesktopWithApi\obj\x86\Debug\DestopToApi.pdb
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\bin\Debug\DestopToApi.exe
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\bin\Debug\DestopToApi.pdb
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\bin\Debug\ClosedXML.dll
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\bin\Debug\DocumentFormat.OpenXml.dll
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\bin\Debug\Newtonsoft.Json.dll
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\bin\Debug\ClosedXML.xml
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\bin\Debug\Newtonsoft.Json.xml
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\obj\x86\Debug\DesktopWithApi.csprojResolveAssemblyReference.cache
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\obj\x86\Debug\DesktopWithApi.Form1.resources
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\obj\x86\Debug\DestopToApi.Properties.Resources.resources
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\obj\x86\Debug\DesktopWithApi.csproj.GenerateResource.Cache
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\obj\x86\Debug\DestopToApi.exe
+G:\bu - sbtc\vae\MyGithubAccount\Frmlatrix_FaisalRahman\DesktopWithApi\obj\x86\Debug\DestopToApi.pdb

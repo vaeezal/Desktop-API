@@ -1,0 +1,26 @@
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.csprojResolveAssemblyReference.cache
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.Form1.resources
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.Properties.Resources.resources
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.csproj.GenerateResource.Cache
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\DestopToApi.exe
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\DestopToApi.pdb
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\ClosedXML.dll
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\ClosedXML.xml
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.exe
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.pdb
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\Newtonsoft.Json.dll
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\Newtonsoft.Json.xml
+D:\Others\vae\proj_cs\DesktopwithApi-master\bin\Debug\DestopToApi.exe
+D:\Others\vae\proj_cs\DesktopwithApi-master\bin\Debug\DestopToApi.pdb
+D:\Others\vae\proj_cs\DesktopwithApi-master\bin\Debug\ClosedXML.dll
+D:\Others\vae\proj_cs\DesktopwithApi-master\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Others\vae\proj_cs\DesktopwithApi-master\bin\Debug\Newtonsoft.Json.dll
+D:\Others\vae\proj_cs\DesktopwithApi-master\bin\Debug\ClosedXML.xml
+D:\Others\vae\proj_cs\DesktopwithApi-master\bin\Debug\Newtonsoft.Json.xml
+D:\Others\vae\proj_cs\DesktopwithApi-master\obj\x86\Debug\DestopToApi.csprojResolveAssemblyReference.cache
+D:\Others\vae\proj_cs\DesktopwithApi-master\obj\x86\Debug\DestopToApi.Form1.resources
+D:\Others\vae\proj_cs\DesktopwithApi-master\obj\x86\Debug\DestopToApi.Properties.Resources.resources
+D:\Others\vae\proj_cs\DesktopwithApi-master\obj\x86\Debug\DestopToApi.csproj.GenerateResource.Cache
+D:\Others\vae\proj_cs\DesktopwithApi-master\obj\x86\Debug\DestopToApi.exe
+D:\Others\vae\proj_cs\DesktopwithApi-master\obj\x86\Debug\DestopToApi.pdb
